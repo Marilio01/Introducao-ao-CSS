@@ -41,3 +41,7 @@ Combinar CSS Grid e Flexbox, como observado no uso de Flexbox dentro de `nav` e 
 - **CSS Grid**, especialmente quando utilizado em conjunto com Flexbox, é a escolha mais eficaz para desenvolver layouts complexos e bem organizados, como evidenciado no segundo código.
 
 Esta abordagem integrada aproveita o melhor de ambas as técnicas, garantindo flexibilidade, clareza e eficiência no design de interfaces web. 🌟
+
+## Segue os links
+https://marilio01.github.io/Introducao-ao-CSS/flex/
+https://marilio01.github.io/Introducao-ao-CSS/grid/
